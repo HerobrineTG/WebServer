@@ -4,7 +4,7 @@ module.exports = {
     version: '1.0.0-Beta',
     
     //Change anything below this line
-    client_secret: 'this_is_a_super_secret_session_sescret_._you_should_change_this',
+    client_secret: 'OTM4NzI4NjY4ODIwMjk1NzEw',
     port: 8080,
     
     clientSettings: {
