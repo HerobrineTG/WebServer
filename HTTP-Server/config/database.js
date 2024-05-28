@@ -1,9 +1,9 @@
 // config/database.js
 module.exports = {
     connection: {
-        host: 'localhost',
-        user: 'root',
-        password: '',
+        host: 'sql5.freesqldatabase.com',
+        user: 'sql5709339',
+        password: 'klMz3VZjN1',
     },
-    database: 'clientname'
+    database: 'sql5709339'
 };
